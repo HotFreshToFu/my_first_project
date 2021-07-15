@@ -89,6 +89,7 @@ print(my_info)
 
 # 1-2. my_info 딕셔너리에서 나이만 출력하시오.
 
+print(my_info.get('age'))
 print(my_info['age'])
 
 
